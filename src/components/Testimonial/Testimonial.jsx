@@ -14,27 +14,27 @@ const Testimonial = () => {
   const data = [
     {
       avatar: 'https://imgs.search.brave.com/b5GZhsCs83LjBR_U9rHBq5LLSy4b7acOW4dpy8JZa7E/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/QzBVcWFycF9NWkM2/MHhjV3VpQTVRSGFI/YSZwaWQ9QXBp',
-      name: 'Prithviraj Sukumaran'
+      name: 'Client 1'
     },
     {
       avatar: 'https://scontent.ccdn.cloud/image/nospoiler/7d72fedc-f6a1-4e68-9384-b9eda5acbe5a/asif-ali-630x630.jpg',
-      name: 'Asif Ali'
+      name: 'Client 2'
     },
     {
       avatar: 'https://1.bp.blogspot.com/-6iQDnrkilgc/XWgAhREmnRI/AAAAAAAAi4E/h4bwwYewJzILaYAjJxA8HOFBvvGhfqLSwCLcBGAs/s1600/AR-160329719.jpg%2526NCS_modified%253D%2526imageversion%253D1by1%2526exif%253D.jpg',
-      name: 'Nivin Pauly'
+      name: 'Client 3'
     },
     {
       avatar: 'https://imgs.search.brave.com/J7yshIUsDmn-aLPb7qSzxR4wSaJv0TAfASOnVWpEc4g/rs:fit:379:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5I/SmtNSUQtUnkzLVNP/YW9UdklqTFZ3SGFK/USZwaWQ9QXBp',
-      name: 'Tovino Thomas'
+      name: 'Client 4'
     },
     {
       avatar: 'https://indianewengland.com/wp-content/uploads/2019/09/Dulquer-Salmaan-696x696.jpg',
-      name: 'Dulquer Salmaan'
+      name: 'Client 5'
     },
     {
       avatar: 'http://www.cineshowcase.com/wp-content/uploads/2014/10/fahad-fazil-0071.jpg',
-      name: 'Fahadh Faasil'
+      name: 'Client 6'
     },
   ]
   return (
